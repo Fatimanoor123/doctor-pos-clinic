@@ -31,7 +31,7 @@ This system allows doctors to manage patients, medicines, stock, billing, and ge
 
 ## 📂 Project Structure
 
-Doctor POS Clinic/
+-**Doctor POS Clinic/**
 │
 ├── services/ # Business logic (billing, inventory updates, etc.)
 ├── ui/ # User interface (Tkinter forms, windows)
@@ -64,6 +64,7 @@ pip install -r requirements.txt
 ### 4. Run the app
 ```bash
 python app.py
+---
 
 ## 📸 Screenshots  
 
