@@ -52,19 +52,22 @@ This system allows doctors to manage patients, medicines, stock, billing, and ge
 ```bash
 git clone https://github.com/your-username/doctor-pos-clinic.git
 cd doctor-pos-clinic
+
+
+
 ### 2. Create virtual environment (optional but recommended)
 
 ```bash
 python -m venv venv
-```` ``` ````
+
 ### 3. Install dependencies
 ```bash
 pip install -r requirements.txt
-```` ``` ````
+
 ### 4. Run the app
 ```bash
 python app.py
-```` ``` ````
+
 
 ## 📸 Screenshots  
 
