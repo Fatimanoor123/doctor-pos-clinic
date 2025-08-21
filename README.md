@@ -53,7 +53,7 @@ This system allows doctors to manage patients, medicines, stock, billing, and ge
 git clone https://github.com/your-username/doctor-pos-clinic.git
 cd doctor-pos-clinic
 
-
+```
 
 ### 2. Create virtual environment (optional but recommended)
 
@@ -105,6 +105,14 @@ Contributions are welcome!
 If you’d like to improve this project:  
 
 1. Fork this repo  
-2. Create a new branch (`feature-xyz`)  
+2. Create a new branch (`feature-xyz`)
+
+
+---
+
+## Connect with Me  
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/fatimanoorr/))
+
 3. Commit changes and push  
 4. Open a Pull Request  
