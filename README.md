@@ -56,15 +56,15 @@ cd doctor-pos-clinic
 
 ```bash
 python -m venv venv
-
+```` ``` ````
 ### 3. Install dependencies
 ```bash
 pip install -r requirements.txt
-
+```` ``` ````
 ### 4. Run the app
 ```bash
 python app.py
----
+```` ``` ````
 
 ## 📸 Screenshots  
 
