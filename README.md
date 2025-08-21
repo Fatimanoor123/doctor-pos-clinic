@@ -59,20 +59,20 @@ cd doctor-pos-clinic
 
 ```bash
 python -m venv venv
+```
 
 ### 3. Install dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 ### 4. Run the app
 ```bash
 python app.py
-
+```
 
 ## 📸 Screenshots  
 
-👉 (Add your screenshots here once the app is running. Example placeholders below:)  
-
+👉 Below are the images have a look 
 - Add Medicine
 <img width="1366" height="929" alt="image" src="https://github.com/user-attachments/assets/bd06175c-3be0-411c-82b5-6da100fcf3fc" />
 -Add Patients
